@@ -1,4 +1,5 @@
 require 'preferences/preference_definition'
+require 'preference'
 
 # Adds support for defining preferences on ActiveRecord models.
 # 
